@@ -6,7 +6,7 @@
 
 ### Here I will be posting the projects I've been doing at uni, so most of my work will be in Spanish.📕 I hope they help some of you!
 
-### Software: R, Excel, SQL, Tableau, Python
+### Software: R, Excel, SQL, Power BI, Python
 
 ### [My LinkedIn Profile](https://linkedin.com/in/guille-palomo)
 
